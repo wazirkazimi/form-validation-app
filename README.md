@@ -39,6 +39,6 @@ The goal of this project is to create a user-friendly form with real-time valida
 
 4.Once all inputs are valid, the form will be ready for submission.
 
-**## Conclusion**
+## Conclusion
 
 The Form Validation App is an interactive demonstration of client-side validation techniques in JavaScript, HTML, and CSS. It was developed to enhance my understanding of form validation and to improve user experience through real-time error handling.
