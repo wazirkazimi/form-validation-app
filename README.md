@@ -34,8 +34,11 @@ The goal of this project is to create a user-friendly form with real-time valida
    ```bash
    git clone https://github.com/wazirkazimi/form-validation-app.git
 2.Open the index.html file in your web browser.
+
 3.Fill in the form fields. Real-time feedback will guide you to correct errors.
+
 4.Once all inputs are valid, the form will be ready for submission.
 
-##Conclusion
+**## Conclusion**
+
 The Form Validation App is an interactive demonstration of client-side validation techniques in JavaScript, HTML, and CSS. It was developed to enhance my understanding of form validation and to improve user experience through real-time error handling.
